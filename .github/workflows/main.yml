@@ -1,5 +1,1 @@
-- name: Unity - Test runner
-  uses: webbertakken/unity-test-runner@v1.3
-  with:
-    # Version of unity to use for testing the project.
-    unityVersion: # optional, default is 2019.2.11f1
+
