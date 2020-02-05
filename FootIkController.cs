@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class FootIkController : MonoBehaviour
 {
+    //Is the IK Enabled?
     public bool IKEnabled;
 
     public float IKSpeed;
